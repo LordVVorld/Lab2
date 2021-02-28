@@ -1,0 +1,7 @@
+C:\Users\mrpro\source\repos\Лаб2\Лаб2\bin\Debug\Лаб2.exe.config
+C:\Users\mrpro\source\repos\Лаб2\Лаб2\bin\Debug\Лаб2.exe
+C:\Users\mrpro\source\repos\Лаб2\Лаб2\bin\Debug\Лаб2.pdb
+C:\Users\mrpro\source\repos\Лаб2\Лаб2\obj\Debug\Лаб2.csproj.CoreCompileInputs.cache
+C:\Users\mrpro\source\repos\Лаб2\Лаб2\obj\Debug\Лаб2.exe
+C:\Users\mrpro\source\repos\Лаб2\Лаб2\obj\Debug\Лаб2.pdb
+C:\Users\mrpro\source\repos\Лаб2\Лаб2\obj\Debug\Лаб2.csprojAssemblyReference.cache
